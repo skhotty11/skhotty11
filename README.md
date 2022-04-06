@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skhotty11. You can call me skhotty
+- 👋 Hi, the name's Sandy, but please call me skhotty :)
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning the beginning stages of Full Stack Development
 - 💞️ I’m looking to collaborate on any kind of projects in the later future
